@@ -1,0 +1,13 @@
+{
+  "name": "CollaborationSite",
+   "version": "0.0.1-SNAPSHOT",
+    "dependencies": {
+        "angular": "latest",
+        "angular-resource": "latest",
+        "jquery": "latest",
+        "sockjs": "latest",
+        "stomp-websocket": "latest",
+        "bootstrap": "latest",
+        "bower-angular-route": "latest"       
+    }
+}
